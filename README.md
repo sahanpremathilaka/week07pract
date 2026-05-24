@@ -1,0 +1,2 @@
+# week07pract
+PROGRAMMING TECHNIQUES
